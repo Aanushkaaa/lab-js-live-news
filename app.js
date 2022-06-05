@@ -21,7 +21,7 @@ function us()
     news(country)
     document.getElementById('country').style.visibility = 'hidden'
 }
-const apikey = "5a44426faffb4378a442a7afacedec8c";
+const apikey = "40774a87dfaa47cd9c39de4aaf1e2282";
 //getting news 
 function news(country) {
     // using axios to fetch data from newsapi.org
